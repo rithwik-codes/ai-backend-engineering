@@ -1,0 +1,23 @@
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Local database
+*.db
+
+# Logs
+*.log
+
+# Temporary files
+tempCodeRunnerFile.python
+*.tmp
+
+# Local/test files
+resume.pdf
